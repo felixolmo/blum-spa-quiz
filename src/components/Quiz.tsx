@@ -288,7 +288,7 @@ export default function Quiz() {
               Pregunta {step + 1} de {QUESTIONS.length}
             </div>
             <div className="h-14 w-14 ring-2 ring-[#c2a091] bg-white rounded-full relative overflow-hidden">
-              <Image src="/blum-logo.png" alt="Blum Spa" fill className="object-contain p-2" />
+              <Image src="/blum-logo-big.png" alt="Blum Spa" fill className="object-contain p-2" />
             </div>
           </div>
 
