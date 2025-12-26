@@ -191,7 +191,7 @@ export default function Quiz() {
             <div className="flex items-center justify-between">
               <div className="text-sm font-medium text-[#a27c69]">Resultado</div>
               <div className="h-16 w-16 ring-2 ring-[#c2a091] bg-white rounded-full relative overflow-hidden flex items-center justify-center">
-                <Image src="/blum-logo.png" alt="Blum Spa" fill className="object-contain p-1.5" />
+                <Image src="/blum-logo.png" alt="Blum Spa" fill className="object-contain scale-[1.35]" />
               </div>
             </div>
 
