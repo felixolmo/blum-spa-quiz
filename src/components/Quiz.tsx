@@ -190,8 +190,8 @@ export default function Quiz() {
           <div className="px-6 py-6 border-b bg-[#fff5f1]">
             <div className="flex items-center justify-between">
               <div className="text-sm font-medium text-[#a27c69]">Resultado</div>
-              <div className="h-14 w-14 ring-2 ring-[#c2a091] bg-white rounded-full relative overflow-hidden">
-                <Image src="/blum-logo.png" alt="Blum Spa" fill className="object-contain p-2" />
+              <div className="h-16 w-16 ring-2 ring-[#c2a091] bg-white rounded-full relative overflow-hidden flex items-center justify-center">
+                <Image src="/blum-logo.png" alt="Blum Spa" fill className="object-contain p-1.5" />
               </div>
             </div>
 
